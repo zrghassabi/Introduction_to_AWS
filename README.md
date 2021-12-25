@@ -18,7 +18,7 @@ https://www.coursera.org/projects/object-detection-sagemaker
 
 https://www.coursera.org/projects/semantic-segmentation-sagemaker
 
-https://www.coursera.org/learn/aws-machine-learning
+https://www.coursera.org/learn/aws-machine-learning   4 hours course
 
 -How to build intelligent applications using Amazon AI services like Amazon Comprehend, Amazon Rekognition, Amazon Translate and others.
 
