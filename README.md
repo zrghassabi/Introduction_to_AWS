@@ -11,13 +11,13 @@ https://www.aws.training/SessionSearch?pageNumber=1&courseId=38910
 Even if you do not have much knowledge of machine learning, by the end of the course, you will have successfully built, trained, evaluated, tuned, and deployed an ML model using Amazon SageMaker that solves their selected business problem. 
 
 I also recommend to take these courses to learn AWS with computer vision and machine learning.
-
+a)
 https://www.coursera.org/projects/deploy-a-video-indexing-application-using-amazon-rekognition
-
+b)
 https://www.coursera.org/projects/object-detection-sagemaker
-
+c)
 https://www.coursera.org/projects/semantic-segmentation-sagemaker
-
+d)
 https://www.coursera.org/learn/aws-machine-learning   4 hours course
 
 -How to build intelligent applications using Amazon AI services like Amazon Comprehend, Amazon Rekognition, Amazon Translate and others.
@@ -25,10 +25,49 @@ https://www.coursera.org/learn/aws-machine-learning   4 hours course
 -How to build, train and deploy a model using Amazon SageMaker with built-in algorithms and Jupyter Notebook instance
 
 -Amazon AI-computer Vision, Amazon AI-NLP
-
+e)
 https://www.coursera.org/projects/image-classification-sagemaker
-
+f)
 https://www.coursera.org/learn/aws-computer-vision-gluoncv
+
+
+starting with course d: 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AI mimics cognitive human actions. To do this, we need knowledge engineering and software programs  which receive data and process to make pridictions. Based on results models learn over time and make decisions. In ML, we need uncorrelated data or distictive features to feed model. In deep learning, with feeding more data, models get better analytics and better products without feature extraction.
+
+AWS has some services for Vision: Amazon Rekognition, Speech: Amazon Polly, Chat: Amazon lex
+
+ e.x.: Amazon Rekontion has templates for face recognition, celebrity detection, object detection
+
+Aws has Engines: MXnet, TensorFlow, Caffe, Theano, Pytorch, CNTK
+
+AWS Platforms: Amazon ML, Sparke & EMR, Kinesis, Batch, ECS
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+To choose ML algorithms: 
+
+*There are different ML models including supervise, unsupervised, reinforcement (Q-learning, SARSA) and deep learning models. Models can be used for classifications (Binary, multiclass) or regression. 
+
+*There are different Deep leraning models including Resnet for image classification, RNN for text summerization, translation, etc.
+
+*Data visalization helps to figure out if feeding data is enought clean and what to do in case of missing data? You have to feed data to the model with shuffeling and randomizing because you do not want bias model with sequential data.
+
+*Bias is comparing pridicted value and acual value, and variance is performance of model for unseen data.
+
+*accuracy is derivative from actual value and precision is ability of reproducing similar results. 
+
+
+Amazon sage maker cover entire pipline : 
+
+1- Data collection and Integration, 2- Data prepration 3- Data visualization ad Analytics, 4- Feature selection and engineering 5-model training 7- model evaluation
+8) prediction. 
+
+has different machine learning models including supervised (MLP, SVM) and unsupervised (Decision trees, clusterings likes k-means, PCA, etc.) models.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 1- creat an acount in aws.amazon.com
