@@ -22,6 +22,7 @@ https://www.coursera.org/learn/aws-machine-learning
 
 -How to build intelligent applications using Amazon AI services like Amazon Comprehend, Amazon Rekognition, Amazon Translate and others.
 -How to build, train and deploy a model using Amazon SageMaker with built-in algorithms and Jupyter Notebook instance
+-Amazon AI-computer Vision, Amazon AI-NLP
 
 https://www.coursera.org/projects/image-classification-sagemaker
 
