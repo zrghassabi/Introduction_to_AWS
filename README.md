@@ -66,6 +66,15 @@ Amazon sage maker cover entire pipline :
 
 has different machine learning models including supervised (MLP, SVM) and unsupervised (Decision trees, clusterings likes k-means, PCA, etc.) models.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Deeplens Console
+
+1) AWS sagemaker: Train and validate custom model or import a pre-train model 
+2) Aws Lambda: Create a project function to make inference (prediction, inference, show results)
+3) AWS DeepLens: Create a computer vision application with a model and inference function
+4) AWS green grass: Deploy the application project a lambda runtime
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
