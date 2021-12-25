@@ -18,23 +18,26 @@ https://www.coursera.org/projects/object-detection-sagemaker
 c)
 https://www.coursera.org/projects/semantic-segmentation-sagemaker
 d)
-https://www.coursera.org/learn/aws-machine-learning   4 hours course
+https://www.coursera.org/projects/image-classification-sagemaker
+e)
+https://www.coursera.org/learn/aws-computer-vision-gluoncv
+
+f)
+https://www.coursera.org/learn/aws-machine-learning   
+
+-4 hours course
 
 -How to build intelligent applications using Amazon AI services like Amazon Comprehend, Amazon Rekognition, Amazon Translate and others.
 
 -How to build, train and deploy a model using Amazon SageMaker with built-in algorithms and Jupyter Notebook instance
 
 -Amazon AI-computer Vision, Amazon AI-NLP
-e)
-https://www.coursera.org/projects/image-classification-sagemaker
-f)
-https://www.coursera.org/learn/aws-computer-vision-gluoncv
 
 
-starting with course d: 
+starting with course f: 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-AI mimics cognitive human actions. To do this, we need knowledge engineering and software programs  which receive data and process to make pridictions. Based on results models learn over time and make decisions. In ML, we need uncorrelated data or distictive features to feed model. In deep learning, with feeding more data, models get better analytics and better products without feature extraction.
+AI>ML>DL: AI mimics cognitive human actions. To do this, we need knowledge engineering and software programs  which receive data and process to make pridictions. Based on results models learn over time and make decisions. In ML, we need uncorrelated data or distictive features to feed model. In deep learning, with feeding more data, models get better analytics and better products without feature extraction.
 
 AWS has some services for Vision: Amazon Rekognition, Speech: Amazon Polly, Chat: Amazon lex
 
