@@ -39,6 +39,7 @@ starting with course f:
 
 AI>ML>DL: AI mimics cognitive human actions. To do this, we need knowledge engineering and software programs  which receive data and process to make pridictions. Based on results models learn over time and make decisions. In ML, we need uncorrelated data or distictive features to feed model. In deep learning, with feeding more data, models get better analytics and better products without feature extraction.
 
+APPLICATION Services:
 
 AWS has some services for Vision: Amazon Rekognition, Speech: Amazon Polly, Chat: Amazon lex, Transcribe, Translate, Comprehend
 
@@ -47,10 +48,15 @@ AWS has some services for Vision: Amazon Rekognition, Speech: Amazon Polly, Chat
      Functions for still imges : detect faces, detect labels, detec moderation labels, detect texts, index faces, , Recognize celebrities, search faces, search faces by image
       
   
+  
+FARMAEWORKS & INTERFACES:
 
-Aws has Engines: MXnet, TensorFlow, Caffe, Theano, Pytorch, CNTK
+Aws has Engines: Apache MXnet, TensorFlow, Caffe, Theano, Pytorch, CNTK, keras, gluon
 
-AWS Platforms: Amazon ML, Sparke & EMR, Kinesis, Batch, ECS
+
+PLATFORM Services:
+
+AWS Platforms: Amazon sagemakers, Amazon ML, Sparke & EMR, Kinesis, Batch, ECS
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
