@@ -114,6 +114,19 @@ Amazon Sagemaker Grondtruth is for automatic labeling
 
 Amazon sagemaker Neo address some challenges, so that costumers do not need to optimize frameworks for diffrent platforms (convert differnt frameworks including pytorch, tensorfeow, etc to portable code which is very fast). It uses Neo compiler and shared object library. 
 
+Amazon sagemaker hyperparameter Model tuning
+
+e.x. trees: depth, number, boosting step and size
+
+e.x. clustering: Nuber of clusters, initialization
+
+e.x. NN: Hyperparameters are learning rate, layers, regularization, drop-out
+
+Tuning can be done manually (geuss and check, experience, intuition, heuristics), Brute force (Grid, Random, Sobol)
+
+
+
+
 
 
 
