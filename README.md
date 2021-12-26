@@ -43,9 +43,9 @@ APPLICATION Services:
 
 AWS has some services for Vision: Amazon Rekognition, Speech: Amazon Polly, Chat: Amazon lex, Transcribe, Translate, Comprehend
 
-     e.x.: Amazon Rekontion has templates for face recognition, object detection, etc.
+e.x.: Amazon Rekontion has templates for face recognition, object detection, etc.
  
-     Functions for still imges : detect faces, detect labels, detec moderation labels, detect texts, index faces, , Recognize celebrities, search faces, search faces by image
+Functions for still imges : detect faces, detect labels, detec moderation labels, detect texts, index faces, , Recognize celebrities, search faces, search faces by image
       
   
   
