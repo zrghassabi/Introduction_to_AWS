@@ -108,6 +108,12 @@ please make sure that the status of notebook is "stoped", otherwise Amazon will 
 
 4- you can use build-in frameworks for your model or use your own code in your laptop.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Amazon Sagemaker Grondtruth is for automatic labeling 
+
+Amazon sagemaker Neo address some challenges, so that costumers do not need to optimize frameworks for diffrent platforms (convert differnt frameworks including pytorch, tensorfeow, etc to portable code which is very fast). It uses Neo compiler and shared object library. 
+
 
 
 
