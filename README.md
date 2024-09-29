@@ -125,6 +125,11 @@ e.x. NN: Hyperparameters are learning rate, layers, regularization, drop-out
 Tuning can be done manually (geuss and check, experience, intuition, heuristics), Brute force (Grid, Random, Sobol)
 
 
+# Amazon SageMaker
+
+https://www.linkedin.com/learning/learning-amazon-sagemaker/machine-learning-with-amazon-sagemaker
+
+
 
 
 
