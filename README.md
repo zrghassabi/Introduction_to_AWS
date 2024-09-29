@@ -129,6 +129,10 @@ Tuning can be done manually (geuss and check, experience, intuition, heuristics)
 
 https://www.linkedin.com/learning/learning-amazon-sagemaker/machine-learning-with-amazon-sagemaker
 
+https://github.com/aws/amazon-sagemaker-examples
+
+
+
 
 
 
